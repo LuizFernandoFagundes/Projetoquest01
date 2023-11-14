@@ -30,28 +30,28 @@
     .lading-page-conteudo .conteudo-destaque{
         font-size: 3rem;
         text-align: center;
-        margin-top: 1rem;
+        padding: 0 10%;
+        
     }
-
-   
 
     .lading-page-conteudo .texto
     {
         font-size: 1.6rem;
         text-align: center;
+        padding: 0 16%;
     }
     .lading-page-conteudo .register
     {
         
         height: 4rem;
-        margin-bottom: 2rem;
        
     }
     .footer{
         display: flex;
         justify-content: center;
         align-items: center;
-       
+        /* position: static; */
+        /* padding-right: 0; */
 
     }
 

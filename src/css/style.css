@@ -54,7 +54,7 @@ main {
 }
 
 .lading-page-conteudo .conteudo-destaque {
-    /* max-width: 60%; */
+    max-width: 52rem;
     font-family: 'Poppins', sans-serif;
     color: #fff;
     font-weight: 600;
